@@ -6,10 +6,9 @@
 - ⚡ Fun fact: Love to read Books
 
 ##  Connect with me:
-<img align="left" alt="Instgram" width="26px" src="https://img.icons8.com/color/48/null/instagram-new--v1.png" style="padding-right:10px;" />
-<img align="left" alt="Linkedin" width="26px" src="https://img.icons8.com/fluency/48/null/linkedin.png" style="padding-right:10px;" />
-<img align="left" alt="twitter" width="26px" src="https://img.icons8.com/color/48/null/twitter--v1.png" style="padding-right:10px;" />
-
+[<img align="left" alt="Instgram" width="26px" src="https://img.icons8.com/color/48/null/instagram-new--v1.png" style="padding-right:10px;" />](https://www.instagram.com/_its_shubh__/?igshid=YmMyMTA2M2Y%3D)
+[<img align="left" alt="Linkedin" width="26px" src="https://img.icons8.com/fluency/48/null/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/shubhampatidarr/)
+[<img align="left" alt="twitter" width="26px"  src="https://img.icons8.com/color/48/null/twitter--v1.png" style="padding-right:10px;" />](https://twitter.com/spatidar__?t=V8-jFaYv4WuKuQiyhthmmQ&s=08)
 <br>
 
 ##  Languages and Tools:
