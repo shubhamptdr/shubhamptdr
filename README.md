@@ -7,7 +7,8 @@
 
 ##  Connect with me:
 <img align="left" alt="Instgram" width="26px" src="https://img.icons8.com/color/48/null/instagram-new--v1.png" style="padding-right:10px;" />
-
+<img align="left" alt="Linkedin" width="26px" src="https://img.icons8.com/fluency/48/null/linkedin.png" style="padding-right:10px;" />
+<img align="left" alt="twitter" width="26px" src="https://img.icons8.com/color/48/null/twitter--v1.png" style="padding-right:10px;" />
 
 <br>
 
