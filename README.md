@@ -9,7 +9,7 @@
 <img align="left" alt="Instgram" width="26px" src="https://img.icons8.com/color/48/null/instagram-new--v1.png" style="padding-right:10px;" />
 
 
-
+<br>
 
 ##  Languages and Tools:
 
