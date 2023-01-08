@@ -1,6 +1,6 @@
 # Hi there, I'm Shubham Patidar 👋
 
-##  I'm a Software Developer 👋
+##  I'm a Software Developer
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: Love to read Books
