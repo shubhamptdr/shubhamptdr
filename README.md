@@ -2,7 +2,7 @@
 
 ##  I'm a Software Developer
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SpringBoot
 - ⚡ Fun fact: Love to read Books
 
 ##  Connect with me:
