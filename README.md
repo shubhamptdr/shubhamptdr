@@ -2,8 +2,8 @@
 
 ##  I'm a Software Developer
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning SpringBoot
-- ⚡ Fun fact: Love to read Books
+- 🌱 I’m currently learning SpringBoot.
+- ⚡ Fun fact: Love to read Books.
 
 ##  Connect with me:
 [<img align="left" alt="Instgram" width="26px" src="https://img.icons8.com/color/48/null/instagram-new--v1.png" style="padding-right:10px;" />](https://www.instagram.com/_its_shubh__/?igshid=YmMyMTA2M2Y%3D)
