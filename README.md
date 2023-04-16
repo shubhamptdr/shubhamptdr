@@ -2,7 +2,7 @@
 
 ##  I'm a Software Developer
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning SpringBoot.
+- 🌱 I’m currently learning React.
 - ⚡ Fun fact: Love to read Books.
 
 ##  Connect with me:
@@ -17,6 +17,8 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Javascript" width="26px" src="https://user-images.githubusercontent.com/117558233/232264621-7537f48a-8a9b-4cc0-9d73-97757c41e0b8.png" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="intellij" width="26px" src="https://img.icons8.com/color/48/null/intellij-idea.png" style="padding-right:10px;" />
 <img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/48/null/pycharm.png" style="padding-right:10px;" />
